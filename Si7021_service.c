@@ -2,7 +2,7 @@
  * Si7021_service.c
  *
  *  Created on: Nov 26, 2022
- *      Author: kurvinox
+ *      Author: PKieda
  */
 
 #include "Si7021.h"
